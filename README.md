@@ -1,4 +1,4 @@
-##Cellular Automaton
+# Cellular Automaton
 
 Looking at cellular automata in C using Raylib (https://www.raylib.com/)
 
