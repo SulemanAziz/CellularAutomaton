@@ -199,12 +199,6 @@ void Start(struct Cell grid[][HEIGHT], struct Cell prevGrid[][HEIGHT], Sound bli
     {
         for (int y = 0; y < HEIGHT; y+=10)
         {
-            if(grid[x][y].state == 0 && (prevGrid[x][y].state == 1 || prevGrid[x][y].state == 2)){
-                if(rand() % 100 < 0.01){
-                    PlaySound(blip);
-                }
-            }
-            
             if(grid[x][y].state == 1){
                 DrawRectangle(x,y,10,10,BLUE);
             } else if(grid[x][y].state == 2){
