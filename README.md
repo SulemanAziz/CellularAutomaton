@@ -1,9 +1,8 @@
 # Cellular Automaton
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51152272-d100-4568-93c6-a34034988690" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51152272-d100-4568-93c6-a34034988690" /><br>
 
-<br>
-Looking at cellular automata in C using Raylib (https://www.raylib.com/)<br><br>
+Looking at cellular automata (https://en.wikipedia.org/wiki/Cellular_automaton) in C using Raylib (https://www.raylib.com/)<br>
 
 ## Run on Windows:<br>
 The binary can be found in the Windows folder "CellularAutomaton.exe"<br>
