@@ -1,0 +1,1 @@
+zig cc -o CellularAutomaton.exe ../src/main.c -I"raylib/include" "raylib/lib/libraylib.a" -lopengl32 -lgdi32 -lwinmm && .\CellularAutomaton.exe

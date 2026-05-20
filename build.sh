@@ -1,1 +1,0 @@
-gcc -o GameofLife src/main.c -I "raylib/include"  -L "raylib/lib" -lraylib -lm && ./GameofLife

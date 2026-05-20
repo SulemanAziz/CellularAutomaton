@@ -1,0 +1,1 @@
+gcc -o CellularAutomaton ../src/main.c -I "raylib/include"  -L "raylib/lib" -lraylib -lm && ./CellularAutomaton

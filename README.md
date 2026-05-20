@@ -5,5 +5,22 @@
 <br>
 Looking at cellular automata in C using Raylib (https://www.raylib.com/)<br><br>
 
-Can only be built on **Linux or WSL** on Windows:<br>
-Simply run the build.sh script to compile and run the project!
+Run on Windows:<br>
+The binary can be found in the Windows folder "CellularAutomaton.exe"<br>
+
+Run on Linux:<br>
+The binary can be found in the Linux folder "CellularAutomaton.exe"<br>
+
+Build on Windows:<br>
+Run the Windows/windowsbuild.bat script to compile and run the project.<br>
+
+Build on Linux:<br>
+Run the Linux/build.sh script to compile and run the project.<br>
+
+Controls:
+
+Press Space to re-roll the random distribution of Cells
+
+Press the Left and Right arrow to switch between the available algorithms
+
+Press P to pause the simulation and P again to resume.
